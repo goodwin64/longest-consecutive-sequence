@@ -1,6 +1,6 @@
 ## Longest Consecutive Sequence
 
-### Desctiption
+### Description
 Given an unsorted array of integers, find the length of the longest consecutive elements sequence.
 Well, lets assume that this task related only to the sequence with step equal to 1 only.
 
